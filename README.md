@@ -1,2 +1,2 @@
 # LeetCode
-Solution to Leetcode questions in C++
+DSA and Leetcode in C++
