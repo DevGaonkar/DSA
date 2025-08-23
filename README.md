@@ -1,2 +1,2 @@
 # LeetCode
-DSA and Leetcode in C++
+DSA and Leetcode in Java
